@@ -1,0 +1,6 @@
+// ----- p5 -----
+// https://p5js.org/
+// Editor:
+// https://editor.p5js.org/
+// nodeJS
+// https://www.npmjs.com/package/p5
